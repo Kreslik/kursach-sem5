@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="amqYZ7LBnyYuAEaf4SJF">
-    <mxGraphModel dx="890" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="645" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xMAUb5xYUcdllP5FNbhr-35" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Изменение статуса&lt;/b&gt;" vertex="1">
-          <mxGeometry height="120" width="140" x="260" y="710" as="geometry" />
+          <mxGeometry height="150" width="140" x="260" y="710" as="geometry" />
         </mxCell>
         <mxCell id="xMAUb5xYUcdllP5FNbhr-36" parent="xMAUb5xYUcdllP5FNbhr-35" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Статус" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
@@ -109,8 +109,11 @@
         <mxCell id="xMAUb5xYUcdllP5FNbhr-37" parent="xMAUb5xYUcdllP5FNbhr-35" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Дата_время" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="xMAUb5xYUcdllP5FNbhr-38" parent="xMAUb5xYUcdllP5FNbhr-35" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Комментарий" vertex="1">
+        <mxCell id="cr1XDaWfRRjqN1M6jwrS-1" parent="xMAUb5xYUcdllP5FNbhr-35" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Автор_события&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xMAUb5xYUcdllP5FNbhr-38" parent="xMAUb5xYUcdllP5FNbhr-35" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Комментарий" vertex="1">
+          <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="xMAUb5xYUcdllP5FNbhr-59" edge="1" parent="1" source="xMAUb5xYUcdllP5FNbhr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;endArrow=ERmandOne;endFill=0;startArrow=ERzeroToOne;startFill=0;" target="xMAUb5xYUcdllP5FNbhr-50">
           <mxGeometry relative="1" as="geometry" />
